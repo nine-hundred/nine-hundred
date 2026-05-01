@@ -36,6 +36,8 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat&logo=prometheus&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF9900.svg?style=flat&logo=amazon-cloudwatch&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
+![Grafana Alloy](https://img.shields.io/badge/Grafana_Alloy-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
 ![Whatap](https://img.shields.io/badge/Whatap-%234B89DC.svg?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnptLTIgMTVsLTUtNSAxLjQxNC0xLjQxNEw5IDEzLjE3bDYuMjkzLTYuMjkzTDE2LjcwNyA4LjI5MyAxMCAxNXoiLz48L3N2Zz4=&logoColor=white)
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-%237856FF.svg?style=flat&logo=mixpanel&logoColor=white)
 ### 테스트 & 개발 도구
